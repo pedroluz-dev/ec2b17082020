@@ -1,0 +1,4 @@
+O sistema deve fazer identificação de usuário;
+O sistema deve alocar o carro voador mais próximo do usuário;
+O usuário deve fazer a solicitação de uma corrida por aplicativo;
+

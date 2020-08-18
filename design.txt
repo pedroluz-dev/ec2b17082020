@@ -1,0 +1,26 @@
+Pontos a serem avaliados para tornar a viagem possível:
+
+Baixo custo
+Carro autônomo, não deverá ter a necessidade de motorista.
+
+Combustível renovável, o carro deverá ser suprido de energia renovável, como energia eólica, solar, propulsão a hidrogênio ou oxigênio, energia geotérmica, biomassa.
+
+Energia Solar: atua por meio da captação da luz do sol pelos painéis solares fotovoltaicos e a transforma em energia elétrica através do inversor solar;
+
+Energia Eólica: utiliza aerogeradores para a geração de energia através da força dos ventos;
+
+Componentes
+
+Devemos definir o quão alto o carro voará para decidirmos a composição da carroceria e a força que os propulsores deverão ter.
+
+Altura máxima: 100 m (podendo variar de 1 a 100 de acordo com o peso que está sendo carregado na viagem.)
+
+Tamanho: Comprimento total do carro 5.5m (Amarok)
+
+Fuselagem: Alumínio ou fibra de carbono, para maior leveza e menos consumo de energia dos propulsores.
+
+ Propulsão:  Oito propulsores, três em cada lateral e um em cada face.
+Máxima capacidade
+
+O carro, ao não ter motorista, traz a possibilidade de transportar até seis pessoas por viagem, obtendo USD 60 por viagem cheia.
+
